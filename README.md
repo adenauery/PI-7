@@ -64,9 +64,9 @@ Site da Plataforma Konker: http://www.konkerlabs.com/
     * [Swagger: API Development for Everyone](https://swagger.io/)
 
 ### 27/04/2021 - Subscreve-Publica
-  * **Trabalhar com a leitura, tratamento e publicação de dados na Internet
-    * Deadline:
-    * Objetivo: Exercitar a fusão de dados provenientes de diferentes origens. Empregar como fonte de daods um serviço de previsão do tempo, que disponibilize informações na Internet. A informação de temperatura deverá ser publicada no Broker MQTT da API do Projeto Integrador 7  
+  * **Trabalhar com a leitura, tratamento e publicação de dados na Internet**
+    * Deadline: 25/05/2021
+    * Objetivo: Exercitar a fusão de dados provenientes de diferentes origens. Empregar como fonte de dados um serviço de previsão do tempo, que disponibilize informações na Internet. A informação de temperatura deverá ser publicada no Broker MQTT da API do Projeto Integrador 7  
 ---
 
 
