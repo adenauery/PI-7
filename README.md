@@ -62,6 +62,11 @@ Site da Plataforma Konker: http://www.konkerlabs.com/
     * [O que é API? Explicamos de forma BEM simples, entenda 100%](https://pluga.co/blog/api/o-que-e-api/)
     * [Neil Patel: API (Application Interface Programming): Entenda O Que É](https://neilpatel.com/br/blog/api-o-que-e/) 
     * [Swagger: API Development for Everyone](https://swagger.io/)
+
+### 27/04/2021 - Subscreve-Publica
+  * **Trabalhar com a leitura, tratamento e publicação de dados na Internet
+    * Deadline:
+    * Objetivo: Exercitar a fusão de dados provenientes de diferentes origens. Empregar como fonte de daods um serviço de previsão do tempo, que disponibilize informações na Internet. A informação de temperatura deverá ser publicada no Broker MQTT da API do Projeto Integrador 7  
 ---
 
 
