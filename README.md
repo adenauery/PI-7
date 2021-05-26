@@ -74,5 +74,6 @@ Site da Plataforma Konker: http://www.konkerlabs.com/
     *  https://portal.inmet.gov.br/manual/manual-de-uso-da-api-de-previs%C3%A3o - https://servicodados.ibge.gov.br/api/docs/malhas?versao=3#api-bq
 ---
 
+Banco de Dados Graphite: https://graphite.readthedocs.io/en/latest/
 
 
