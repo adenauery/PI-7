@@ -66,7 +66,11 @@ Site da Plataforma Konker: http://www.konkerlabs.com/
 ### 27/04/2021 - Subscreve-Publica
   * **Trabalhar com a leitura, tratamento e publicação de dados na Internet**
     * Deadline: 25/05/2021
-    * Objetivo: Exercitar a fusão de dados provenientes de diferentes origens. Empregar como fonte de dados um serviço de previsão do tempo, que disponibilize informações na Internet. A informação de temperatura deverá ser publicada no Broker MQTT da API do Projeto Integrador 7  
+    * Objetivo: Exercitar a fusão de dados provenientes de diferentes origens. Empregar como fonte de dados um serviço de previsão do tempo, que disponibilize informações na Internet. A informação de temperatura deverá ser publicada no Broker MQTT da API do Projeto Integrador 7.
+  * APIs utilizadas pela turma:
+    
+    *  https://pypi.org/project/pyowm/ (Miguel)
+    *  HG Weather (HG Brasil): https://hgbrasil.com/ - [Seleção de Dados pela URL](https://api.hgbrasil.com/weather?woeid=456524&fields=only_results,temp,city,humidity,wind_speedy)
 ---
 
 
