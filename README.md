@@ -71,6 +71,7 @@ Site da Plataforma Konker: http://www.konkerlabs.com/
     
     *  https://pypi.org/project/pyowm/ (Miguel)
     *  HG Weather (HG Brasil): https://hgbrasil.com/ - [Seleção de Dados pela URL](https://api.hgbrasil.com/weather?woeid=456524&fields=only_results,temp,city,humidity,wind_speedy)
+    *  https://portal.inmet.gov.br/manual/manual-de-uso-da-api-de-previs%C3%A3o - 
 ---
 
 
