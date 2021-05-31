@@ -63,7 +63,7 @@ Site da Plataforma Konker: http://www.konkerlabs.com/
     * [Neil Patel: API (Application Interface Programming): Entenda O Que É](https://neilpatel.com/br/blog/api-o-que-e/) 
     * [Swagger: API Development for Everyone](https://swagger.io/)
 
-### 27/04/2021 - Subscreve-Publica
+### 04/05/2021 - Subscreve-Publica
   * **Trabalhar com a leitura, tratamento e publicação de dados na Internet**
     * Deadline: 25/05/2021
     * Objetivo: Exercitar a fusão de dados provenientes de diferentes origens. Empregar como fonte de dados um serviço de previsão do tempo, que disponibilize informações na Internet. A informação de temperatura deverá ser publicada no Broker MQTT da API do Projeto Integrador 7.
@@ -72,8 +72,20 @@ Site da Plataforma Konker: http://www.konkerlabs.com/
     *  https://pypi.org/project/pyowm/ (Miguel)
     *  HG Weather (HG Brasil): https://hgbrasil.com/ - [Seleção de Dados pela URL](https://api.hgbrasil.com/weather?woeid=456524&fields=only_results,temp,city,humidity,wind_speedy)
     *  https://portal.inmet.gov.br/manual/manual-de-uso-da-api-de-previs%C3%A3o - https://servicodados.ibge.gov.br/api/docs/malhas?versao=3#api-bq
----
 
-Banco de Dados Graphite: https://graphite.readthedocs.io/en/latest/
+### 01/06/2021
 
+  * Ferramentas em Uso:
+    * Banco de Dados Graphite: https://graphite.readthedocs.io/en/latest/
+    * Framework Grafana: https://grafana.com
 
+  * Configurando o Servidor da Turma de PI VII
+    * Ubuntu 20.04 Server
+    * Criando Banners com ASCII: https://manytools.org/hacker-tools/ascii-banner/
+    * Ajustando o Time Set: https://linuxconfig.org/how-to-sync-time-on-ubuntu-20-04-focal-fossa-linux
+    * Salvando e recuperando regras do iptables: https://www.cyberciti.biz/faq/how-to-save-iptables-firewall-rules-permanently-on-linux/
+    * Como executar comandos na inicialização do Linux: https://linuxconfig.org/how-to-run-script-on-startup-on-ubuntu-20-04-focal-fossa-server-desktop
+    * Como proteger o servidor de ataques de força bruta: https://qastack.com.br/ubuntu/32246/how-to-secure-ubuntu-server-from-bruteforce-ssh-attacks
+    * Como gerenciar as mensagens no login: https://goto-linux.com/pt/2019/7/23/como-alterar-a-mensagem-de-boas-vindas-motd-no-servidor-ubuntu-18.04/
+
+https://manytools.org/hacker-tools/ascii-banner/
