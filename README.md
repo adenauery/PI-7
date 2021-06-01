@@ -82,7 +82,7 @@ Site da Plataforma Konker: http://www.konkerlabs.com/
   * Configurando o Servidor da Turma de PI VII
     * Ubuntu 20.04 Server - https://ubuntu.com/download/server
     * Criando Banners com ASCII: https://manytools.org/hacker-tools/ascii-banner/
-    * Ajustando o Time Set: https://linuxconfig.org/how-to-sync-time-on-ubuntu-20-04-focal-fossa-linux
+    * Ajustando o Relógio: [Time-Zone](https://linuxconfig.org/how-to-change-timezone-on-ubuntu-20-04-focal-fossa-linux) e [NTP](https://linuxconfig.org/how-to-sync-time-on-ubuntu-20-04-focal-fossa-linux)
     * Salvando e recuperando regras do iptables: https://www.cyberciti.biz/faq/how-to-save-iptables-firewall-rules-permanently-on-linux/
     * Como executar comandos na inicialização do Linux: https://linuxconfig.org/how-to-run-script-on-startup-on-ubuntu-20-04-focal-fossa-server-desktop
     * Como proteger o servidor de ataques de força bruta: https://qastack.com.br/ubuntu/32246/how-to-secure-ubuntu-server-from-bruteforce-ssh-attacks
