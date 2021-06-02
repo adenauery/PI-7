@@ -81,6 +81,8 @@ Site da Plataforma Konker: http://www.konkerlabs.com/
 
   * Configurando o Servidor da Turma de PI VII
     * Ubuntu 20.04 Server - https://ubuntu.com/download/server
+    * IP do servidor: http://olaria.ucpel.edu.br/registrar_ip/
+    * Como trocar a porta do SSH: https://www.vivaolinux.com.br/dica/Alterando-Porta-do-Servidor-SSH-no-Ubuntu-Server
     * Criando Banners com ASCII: https://manytools.org/hacker-tools/ascii-banner/
     * Ajustando o Relógio: [Time-Zone](https://linuxconfig.org/how-to-change-timezone-on-ubuntu-20-04-focal-fossa-linux) e [NTP](https://linuxconfig.org/how-to-sync-time-on-ubuntu-20-04-focal-fossa-linux)
     * Salvando e recuperando regras do iptables: https://www.cyberciti.biz/faq/how-to-save-iptables-firewall-rules-permanently-on-linux/
