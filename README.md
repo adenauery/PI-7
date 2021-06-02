@@ -89,5 +89,6 @@ Site da Plataforma Konker: http://www.konkerlabs.com/
     * Como executar comandos na inicialização do Linux: https://linuxconfig.org/how-to-run-script-on-startup-on-ubuntu-20-04-focal-fossa-server-desktop
     * Como proteger o servidor de ataques de força bruta: https://qastack.com.br/ubuntu/32246/how-to-secure-ubuntu-server-from-bruteforce-ssh-attacks
     * Como gerenciar as mensagens no login: https://goto-linux.com/pt/2019/7/23/como-alterar-a-mensagem-de-boas-vindas-motd-no-servidor-ubuntu-18.04/
+    * Portas Abertas em um Servidor Linux: http://web.mit.edu/rhel-doc/4/RH-DOCS/rhel-sg-pt_br-4/s1-server-ports.html
 
 https://manytools.org/hacker-tools/ascii-banner/
