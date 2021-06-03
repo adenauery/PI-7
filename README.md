@@ -96,5 +96,3 @@ Site da Plataforma Konker: http://www.konkerlabs.com/
 
 ### Desafio:
   * Como saber o IP de um equipamento empregando um Broker MQTT. A condição é o equipamento com o IP a ser descoberto estar conectado ao Broker MQTT.
-
-https://manytools.org/hacker-tools/ascii-banner/
