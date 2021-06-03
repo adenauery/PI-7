@@ -88,8 +88,8 @@ Site da Plataforma Konker: http://www.konkerlabs.com/
     * Salvando e recuperando regras do iptables: https://www.cyberciti.biz/faq/how-to-save-iptables-firewall-rules-permanently-on-linux/
     * Como executar comandos na inicialização do Linux: https://linuxconfig.org/how-to-run-script-on-startup-on-ubuntu-20-04-focal-fossa-server-desktop
     * Como proteger o servidor de ataques de força bruta: https://qastack.com.br/ubuntu/32246/how-to-secure-ubuntu-server-from-bruteforce-ssh-attacks
-    * Como gerenciar as mensagens no login: https://goto-linux.com/pt/2019/7/23/como-alterar-a-mensagem-de-boas-vindas-motd-no-servidor-ubuntu-18.04/
-    * Portas Abertas em um Servidor Linux: http://web.mit.edu/rhel-doc/4/RH-DOCS/rhel-sg-pt_br-4/s1-server-ports.html
+    * [Como gerenciar as mensagens no login dos usuários](https://goto-linux.com/pt/2019/7/23/como-alterar-a-mensagem-de-boas-vindas-motd-no-servidor-ubuntu-18.04/)
+    * [Portas Abertas em um Servidor Linux](http://web.mit.edu/rhel-doc/4/RH-DOCS/rhel-sg-pt_br-4/s1-server-ports.html)
     * [Terminal para MS-Windows](https://www.putty.org/)
     * [Ferramentas de Monitoramento no Ubuntu](https://qastack.com.br/ubuntu/293426/system-monitoring-tools-for-ubuntu)
     * [Monitoramento com Bash](https://www.ti-enxame.com/pt/shell-script/comando-para-exibir-uso-de-memoria-uso-de-disco-e-carga-da-cpu/960818838/)
