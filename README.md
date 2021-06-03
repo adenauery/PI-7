@@ -92,6 +92,7 @@ Site da Plataforma Konker: http://www.konkerlabs.com/
     * Portas Abertas em um Servidor Linux: http://web.mit.edu/rhel-doc/4/RH-DOCS/rhel-sg-pt_br-4/s1-server-ports.html
     * [Terminal para MS-Windows](https://www.putty.org/)
     * [Monitoramento no Ubuntu](https://qastack.com.br/ubuntu/293426/system-monitoring-tools-for-ubuntu)
+    * [Monitoramento com Bash](https://www.ti-enxame.com/pt/shell-script/comando-para-exibir-uso-de-memoria-uso-de-disco-e-carga-da-cpu/960818838/)
 
 ### Desafio:
   * Como saber o IP de um equipamento empregando um Broker MQTT. A condição é o equipamento com o IP a ser descoberto estar conectado ao Broker MQTT.
