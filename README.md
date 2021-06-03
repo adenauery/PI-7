@@ -91,7 +91,7 @@ Site da Plataforma Konker: http://www.konkerlabs.com/
     * Como gerenciar as mensagens no login: https://goto-linux.com/pt/2019/7/23/como-alterar-a-mensagem-de-boas-vindas-motd-no-servidor-ubuntu-18.04/
     * Portas Abertas em um Servidor Linux: http://web.mit.edu/rhel-doc/4/RH-DOCS/rhel-sg-pt_br-4/s1-server-ports.html
     * [Terminal para MS-Windows](https://www.putty.org/)
-    * [Monitoramento no Ubuntu](https://qastack.com.br/ubuntu/293426/system-monitoring-tools-for-ubuntu)
+    * [Ferramentas de Monitoramento no Ubuntu](https://qastack.com.br/ubuntu/293426/system-monitoring-tools-for-ubuntu)
     * [Monitoramento com Bash](https://www.ti-enxame.com/pt/shell-script/comando-para-exibir-uso-de-memoria-uso-de-disco-e-carga-da-cpu/960818838/)
 
 ### Desafio:
