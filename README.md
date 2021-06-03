@@ -76,8 +76,8 @@ Site da Plataforma Konker: http://www.konkerlabs.com/
 ### 01/06/2021
 
   * Ferramentas em Uso:
-    * Banco de Dados Graphite: https://graphite.readthedocs.io/en/latest/
-    * Framework Grafana: https://grafana.com
+    * [Banco de Dados Graphite](https://graphite.readthedocs.io/en/latest/)
+    * [Framework Grafana](https://grafana.com)
 
   * Configurando o Servidor da Turma de PI VII
     * [Ubuntu 20.04 Server](https://ubuntu.com/download/server) - Considerar a opção Manual Server Instalattion
