@@ -83,12 +83,12 @@ Site da Plataforma Konker: http://www.konkerlabs.com/
     * [Ubuntu 20.04 Server](https://ubuntu.com/download/server) - Considerar a opção Manual Server Instalattion
     * IP servidor do Projeto Integrador(http://olaria.ucpel.edu.br/registrar_ip/)
     * [Como trocar a porta do SSH](https://www.vivaolinux.com.br/dica/Alterando-Porta-do-Servidor-SSH-no-Ubuntu-Server)
-    * [Criando Banners com ASCII](https://manytools.org/hacker-tools/ascii-banner/)
     * Ajustando o Relógio: [Time-Zone](https://linuxconfig.org/how-to-change-timezone-on-ubuntu-20-04-focal-fossa-linux) e [NTP](https://linuxconfig.org/how-to-sync-time-on-ubuntu-20-04-focal-fossa-linux)
     * [Salvando e recuperando regras do iptables](https://www.cyberciti.biz/faq/how-to-save-iptables-firewall-rules-permanently-on-linux/)
     * [Como executar comandos na inicialização do Linux](https://linuxconfig.org/how-to-run-script-on-startup-on-ubuntu-20-04-focal-fossa-server-desktop)
     * [Como proteger o servidor de ataques de força bruta](https://qastack.com.br/ubuntu/32246/how-to-secure-ubuntu-server-from-bruteforce-ssh-attacks)
     * [Como gerenciar as mensagens no login dos usuários](https://goto-linux.com/pt/2019/7/23/como-alterar-a-mensagem-de-boas-vindas-motd-no-servidor-ubuntu-18.04/)
+    * [Criando Banners com ASCII](https://manytools.org/hacker-tools/ascii-banner/)
     * [Portas Abertas em um Servidor Linux](http://web.mit.edu/rhel-doc/4/RH-DOCS/rhel-sg-pt_br-4/s1-server-ports.html)
     * [Terminal para MS-Windows](https://www.putty.org/)
     * [Ferramentas de Monitoramento no Ubuntu](https://qastack.com.br/ubuntu/293426/system-monitoring-tools-for-ubuntu)
