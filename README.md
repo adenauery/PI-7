@@ -94,6 +94,7 @@ Site da Plataforma Konker: http://www.konkerlabs.com/
     * [Ferramentas de Monitoramento no Ubuntu](https://qastack.com.br/ubuntu/293426/system-monitoring-tools-for-ubuntu)
     * [Monitoramento com Bash](https://www.ti-enxame.com/pt/shell-script/comando-para-exibir-uso-de-memoria-uso-de-disco-e-carga-da-cpu/960818838/)
     * [Como apagar o monitor no modo texto em servidores](https://brightwhiz.com/turn-off-monitor-ubuntu-20-04/)
+    * [Instalando Graphite com Docker no Ubuntu 20.04](https://www.osradar.com/how-to-install-graphite-and-graphite-web-on-ubuntu-20-04/)
 
 ### Desafio:
   * Como saber o IP de um equipamento empregando um Broker MQTT. A condição é o equipamento com o IP a ser descoberto estar conectado ao Broker MQTT.
