@@ -96,6 +96,7 @@ Site da Plataforma Konker: http://www.konkerlabs.com/
     * [Como apagar o monitor no modo texto em servidores](https://brightwhiz.com/turn-off-monitor-ubuntu-20-04/)
     * [Instalando Graphite com Docker no Ubuntu 20.04](https://www.osradar.com/how-to-install-graphite-and-graphite-web-on-ubuntu-20-04/)
     * [Instalando Grafana no Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-grafana-on-ubuntu-20-04-pt)
+    * [Instalação do Nginx no Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04)
 
 ### Desafio:
   * Como saber o IP de um equipamento empregando um Broker MQTT. A condição é o equipamento com o IP a ser descoberto estar conectado ao Broker MQTT.
