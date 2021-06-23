@@ -110,7 +110,7 @@ Site da Plataforma Konker: http://www.konkerlabs.com/
 Empregando o Servidor Ubuntu 20.04 da turma. Elaborar uma API em Python que promova as seguintes funcionalidades:
 
   * Receba e grave em um Banco de Dados  dados produzidos por sensores
-  * Os dados deverão ser postados e/ou lidos no Broker empregados pelo Projeto Integrador VII. Considerar a possíbilidade de empregar os dados que já estão sendo postados (PROJ-INT e PROJ-INT-2. Os dados para acesso ao Broker podem ser pegos do programa 
+  * Os dados deverão ser postados e/ou lidos no Broker empregados pelo Projeto Integrador VII. Considerar a possíbilidade de empregar os dados que já estão sendo postados (PROJ-INT e PROJ-INT-2. Os dados para acesso ao Broker podem ser pegos do programa "api-pivb-graphite.py" (vide /home/adenauer).
   * Gerar uma tabela ou gráfico em Python correspondentes aos dados coletados. Se possível gerar na web publicando em uma URL do tipo http://pi.exehda.org:3002/<username>
   * Gerar uma tabela ou gráfico empregando o Grafana
 
