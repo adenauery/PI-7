@@ -99,6 +99,15 @@ Site da Plataforma Konker: http://www.konkerlabs.com/
     * [Instalação do Nginx no Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04)
     * [PuTTY - Terminal para Windows](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - [Gerando Chaves RSA no PuTTY](http://www.dc.ufscar.br/suporte/nossa-rede/acesso-remoto/ssh-usando-putty)
    
+####Trabalho Final de Projeto Integrador VII
+
+Empregando o Servidor Ubuntu 20.04 da turma. Elaborar uma API em Python que promova as seguintes funcionalidades:
+
+  * Receba e grave em um Banco de Dados  dados produzidos por sensores
+  * Os dados deverão ser postados no Broker empregados pelo Projeto Integrador VII
+  * Gerar uma tabela ou gráfico em Python correspondentes aos dados coletados
+  * Gerar uma tabela ou gráfico empregando o Grafana
+
 
 ### Desafio:
   * Como saber o IP de um equipamento empregando um Broker MQTT. A condição é o equipamento com o IP a ser descoberto estar conectado ao Broker MQTT.
