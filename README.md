@@ -73,6 +73,10 @@ Site da Plataforma Konker: http://www.konkerlabs.com/
     *  HG Weather (HG Brasil): https://hgbrasil.com/ - [Seleção de Dados pela URL](https://api.hgbrasil.com/weather?woeid=456524&fields=only_results,temp,city,humidity,wind_speedy)
     *  https://portal.inmet.gov.br/manual/manual-de-uso-da-api-de-previs%C3%A3o - https://servicodados.ibge.gov.br/api/docs/malhas?versao=3#api-bq
 
+### Desafio:
+  * Como saber o IP de um equipamento empregando um Broker MQTT. A condição é o equipamento com o IP a ser descoberto estar conectado ao Broker MQTT.
+
+
 ### 01/06/2021
 
   * Ferramentas em Uso:
@@ -110,6 +114,7 @@ Empregando o Servidor Ubuntu 20.04 da turma. Elaborar uma API em Python que prom
   * Gerar uma tabela ou gráfico em Python correspondentes aos dados coletados
   * Gerar uma tabela ou gráfico empregando o Grafana
 
+Links de Apoio:
+  * [Como criar Tabelas: Grafana & Postgres](https://medium.com/analytics-vidhya/grafana-with-postgresql-data-visualization-with-open-source-tool-36f5150fa290)
+  * [Visualizando dados do PostgreSQL com Grafana](https://postgresconf.org/system/events/document/000/000/964/Visualizing_Data_in_PostgreSQL_With_Grafana.pdf)
 
-### Desafio:
-  * Como saber o IP de um equipamento empregando um Broker MQTT. A condição é o equipamento com o IP a ser descoberto estar conectado ao Broker MQTT.
