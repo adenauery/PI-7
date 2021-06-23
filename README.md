@@ -111,7 +111,7 @@ Empregando o Servidor Ubuntu 20.04 da turma. Elaborar uma API em Python que prom
 
   * Receba e grave em um Banco de Dados  dados produzidos por sensores
   * Os dados deverão ser postados no Broker empregados pelo Projeto Integrador VII
-  * Gerar uma tabela ou gráfico em Python correspondentes aos dados coletados
+  * Gerar uma tabela ou gráfico em Python correspondentes aos dados coletados. Se possível gerar na web http://pi.exehda.org:3002/<username>
   * Gerar uma tabela ou gráfico empregando o Grafana
 
 Links de Apoio:
