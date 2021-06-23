@@ -117,4 +117,5 @@ Empregando o Servidor Ubuntu 20.04 da turma. Elaborar uma API em Python que prom
 Links de Apoio:
   * [Como criar Tabelas: Grafana & Postgres](https://medium.com/analytics-vidhya/grafana-with-postgresql-data-visualization-with-open-source-tool-36f5150fa290)
   * [Visualizando dados do PostgreSQL com Grafana](https://postgresconf.org/system/events/document/000/000/964/Visualizing_Data_in_PostgreSQL_With_Grafana.pdf)
+  * [Python & PostGres](https://www.devmedia.com.br/como-criar-uma-conexao-em-postgresql-com-python/34079)
 
