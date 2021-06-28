@@ -111,9 +111,9 @@ Empregando o Servidor Ubuntu 20.04 da turma. Elaborar uma API em Python que prom
 
   * Receba dados produzidos por sensores e os grave em um Banco de Dados 
 
-  * Os dados deverão ser postados e/ou lidos no Broker empregados pelo Projeto Integrador VII. Considerar a possíbilidade de empregar os dados que já estão sendo postados (PROJ-INT e PROJ-INT-2). Os dados para acesso ao Broker, bem como outras informações informações, podem ser pegos do programa "api-graphite-postgres.py" (vide /home/adenauer).
+  * Os dados deverão ser postados e/ou lidos no Broker empregados pelo Projeto Integrador VII. Considerar a possíbilidade de empregar os dados que já estão sendo postados (PROJ-INT e PROJ-INT-2). Os dados para acesso ao Broker, bem como outras informações informações, podem ser pegos do programa "api-graphite-postgres.py" (vide /home/adenauer)
 
-  * Criar uma tabela no PostgreSQL para publicar os sensores (novos ou já existentes). Esta postagem no PostgreSQL é necessária para gerar a listagem ou gráfico com o Python. Ententende-se por sensores já existentes o PROJ-INT e PROJ-INT-2. Empregar o PHPPGADIM para auxiliar nesta tarefa. Acessar este serviço pela URL http://pi.exehda.org:3002/dbadmin/ (para login, utilizar os dados de acesso disponibilizados para a turma).
+  * Criar uma tabela no PostgreSQL para publicar os sensores (novos ou já existentes). Esta postagem no PostgreSQL é necessária para gerar a listagem ou gráfico com o Python. Ententende-se por sensores já existentes o PROJ-INT e PROJ-INT-2. Empregar o PHPPGADIM para auxiliar nesta tarefa. Acessar este serviço pela URL http://pi.exehda.org:3002/dbadmin/ (para login, utilizar os dados de acesso disponibilizados para a turma)
 
   * Gerar uma listagem ou gráfico em Python correspondentes aos dados coletados. Gerar a listagem ou o gráfico na web publicando em uma URL do tipo http://pi.exehda.org:3002/<username\>
 
