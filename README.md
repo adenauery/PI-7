@@ -115,7 +115,7 @@ Empregando o Servidor Ubuntu 20.04 da turma. Elaborar uma API em Python que prom
 
   * Criar uma tabela no PostgreSQL para publicar os sensores (novos ou já existentes). Esta postagem no PostgreSQL é necessária para gerar a listagem ou gráfico com o Python. Ententende-se por sensores já existentes o PROJ-INT e PROJ-INT-2. Empregar o PHPPGADIM para auxiliar nesta tarefa. Acessar este serviço pela URL http://pi.exehda.org:3002/dbadmin/ (para login, utilizar os dados de acesso disponibilizados para a turma).
 
-  * Gerar uma listagem ou gráfico em Python correspondentes aos dados coletados. Gerar a listagem ou o gráfico na web publicando em uma URL do tipo http://pi.exehda.org:3002/\<username\>
+  * Gerar uma listagem ou gráfico em Python correspondentes aos dados coletados. Gerar a listagem ou o gráfico na web publicando em uma URL do tipo http://pi.exehda.org:3002/<username\>
 
   * Gerar uma listagem ou gráfico empregando o Grafana. Exemplos neste sentido estão disponíveis em http://pi.exehda.org:3000/ (para login, utilizar os dados de acesso disponibilizados para a turma)
 
