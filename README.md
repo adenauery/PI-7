@@ -26,25 +26,25 @@ Aluno | Repositório de Trabalho
 * Visão geral das atividades a serem desenvolvidas. Discussões sobre a importâncias dos middlewares nas infraestruturas modernas de instrumentação eletrônica.
 
 ### 09/03/2021
-* Apresentação do middlware EXEHDA enquanto middleware para IoT
+* Apresentação do middlware EXEHDA enquanto middleware para IoT, com suporte a aquisição remota de dados de sensores, seu armazenamento e processamento.
 
 ### 16/03/2021
-* Sensores na IoT: principais tipos e desafios associados
+* Sensores na IoT: principais tipos e desafios associados a sua aquisição, padronização e processamento.
 
 ### 23/03/2021
-* Definição inicial dos trabalhos a serem desenvolvidos pelos alunos ao longo do semestre
+* Definição inicial dos trabalhos a serem desenvolvidos pelos alunos ao longo do semestre.
 
 ### 30/03/2021
-* Revisão sobre as principais tecnologias a serem utilizadas
+* Revisão sobre as principais tecnologias a serem utilizadas no semestre
 
 ### 06/04/2021
 * Conversa sobre os Componentes do EXEHDA: Servidor de Contexto & Gateway
 
 ### 13/04/2021 - Konker-Pub
 
-## Trabalhando com a Plataforma Konker
-
 * Explorando funcionalidades da plataforma Konker, e seu emprego no cenário do monitoramento e tratamento de dados.
+
+## Trabalhando com a Plataforma Konker
 
 Site da Plataforma Konker: http://www.konkerlabs.com/
 
@@ -98,7 +98,7 @@ Explorando o paradigma Subscreve-Publica para a coleta e o tratamento de dados n
 
 
 ### 18/05/2021
-  * Explorando a integração da programação em Python com plataformas públicas para coleta de dados
+  * Explorando a integração da programação em Python com plataformas públicas que disponibilizam dados
 
 
 ### 25/05/2021
@@ -106,7 +106,7 @@ Explorando o paradigma Subscreve-Publica para a coleta e o tratamento de dados n
 
 
 ### 01/06/2021
-* Explorando funcionalidades do Banco de Dados Graphite e sua integração com o Grafana para armazenamento e visualização dos dados coletados
+* Explorando funcionalidades do Banco de Dados Graphite e sua integração com o Grafana para armazenamento e visualização dos dados coletados.
 
   * Ferramentas em Uso:
     * [Banco de Dados Graphite](https://graphite.readthedocs.io/en/latest/)
@@ -132,10 +132,12 @@ Explorando o paradigma Subscreve-Publica para a coleta e o tratamento de dados n
     * [Instalação do Nginx no Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04)
     * [PuTTY - Terminal para Windows](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - [Gerando Chaves RSA no PuTTY](http://www.dc.ufscar.br/suporte/nossa-rede/acesso-remoto/ssh-usando-putty)
 
-### 07/06/2021
-* Discutindo a integração do Grafana com o Banco de Dados Relacional PostgreSQL
+### 08/06/2021
+* Discutindo a integração do Grafana com o Banco de Dados Relacional PostgreSQL.
 
-### 14/06/2021
+### 15/06/2021
+
+* Revisão junto com os alunos do trabalho final a ser desenvolvido pela turma.
 
 **Trabalho Final de Projeto Integrador VII**
 
@@ -158,11 +160,11 @@ Links de Apoio:
   * [Manipulando dados em PostgreSQL com Python](https://dadosaocubo.com/manipulando-dados-em-postgresql-com-python/)
 
 
-### 21/06/2021
+### 22/06/2021
 * Explorando os principais comandos de ferramentas textuais e na web para manipulação do PostgreSQL
 
 ### 29/06/2021
-* Primeira Avaliação Teórico-Prática, na qual os alunos apresentaram o desenvolvido no primeiro Módulo do Semestre.
+* Segunda Avaliação Teórico-Prática, na qual os alunos apresentaram o desenvolvido no segundo Módulo do Semestre.
 
 ### 06/07/2021
 * Revisão do desenvolvido ao longo do semestre. Organização coletiva dos documentos produzidos.
