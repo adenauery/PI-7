@@ -19,26 +19,34 @@ Aluno | Repositório de Trabalho
 * https://github.com/adenauery/EXEHDA-Gateway-Core
 * https://github.com/adenauery/EXEHDA-Gateway
 
+### 23/02/2021
+* Discussão da metodologia a ser empregada ao longo do semestre. Identificação dos conteúdos a serem explorados, considerando as disciplinas do semestre.
+
+### 02/03/2021
+* Visão geral das atividades a serem desenvolvidas. Discussões sobre a importâncias dos middlewares nas infraestruturas modernas de instrumentação eletrônica.
+
+### 09/03/2021
+* Apresentação do middlware EXEHDA enquanto middleware para IoT
 
 ### 16/03/2021
-* Introdução à disciplina, com a discusão da metodologia de trabalho a ser desenvolvida
-* Apresentação do middlware EXEHDA
-* Visão geral das atividades a serem desenvolvidas
+* Sensores na IoT: principais tipos e desafios associados
 
 ### 23/03/2021
-* Definição inicial dos trabalhos a serem desenvolvidos
+* Definição inicial dos trabalhos a serem desenvolvidos pelos alunos ao longo do semestre
 
 ### 30/03/2021
-* Revisão sobre tecnologias a serem utilizadas
+* Revisão sobre as principais tecnologias a serem utilizadas
 
 ### 06/04/2021
 * Conversa sobre os Componentes do EXEHDA: Servidor de Contexto & Gateway
 
+### 13/04/2021 - Konker-Pub
+
 ## Trabalhando com a Plataforma Konker
 
-Site da Plataforma Konker: http://www.konkerlabs.com/
+* Explorando funcionalidades da plataforma Konker, e seu emprego no cenário do monitoramento e tratamento de dados.
 
-### 13/04/2021 - Konker-Pub
+Site da Plataforma Konker: http://www.konkerlabs.com/
 
   * **Publicando Dados**
     * Deadline: 20/04/2021  
@@ -49,6 +57,8 @@ Site da Plataforma Konker: http://www.konkerlabs.com/
     * ESP32 - MicroPython: utilizar o exemplo deste [site](https://mjrobot.org/2018/06/13/iot-feito-facil-esp-micropython-mqtt-thingspeak/) (umqtt.simple) - 
 
 ### 20/04/2021 - Konker-Rot
+* Explorando o roteamento de eventos na plataforma Konker, e seu uso na geração de alertas para os usuários finais.
+
   * **Roteando Eventos**
     * Deadline: 27/04/2021 
     * Objetivo: Rotear eventos entre dois códigos. Os códigos podem estar em dispositivos diferentes ou não.
@@ -56,6 +66,8 @@ Site da Plataforma Konker: http://www.konkerlabs.com/
     * Explorar o recurso de Expressão de Filtragem 
 
 ### 27/04/2021 - Konker-API
+* Explorando a Konker-API para submissão de tarefas na plataforma Konker. Discussão das funcionalidades da API e sua impotância em um cenário de nuvem computacional.
+* 
   * **Explorando o uso de APIs**
     * Deadline: 11/05/2021
     * Objetivo: Explorar o uso de APIs na plataforma Konker. Deverá ser utilizada pelo menos uma das funcionalidades disponíveis da API.
@@ -63,7 +75,15 @@ Site da Plataforma Konker: http://www.konkerlabs.com/
     * [Neil Patel: API (Application Interface Programming): Entenda O Que É](https://neilpatel.com/br/blog/api-o-que-e/) 
     * [Swagger: API Development for Everyone](https://swagger.io/)
 
-### 04/05/2021 - Subscreve-Publica
+### 04/05/2021
+
+* Primeira Avaliação Teórico-Prática, na qual os alunos apresentaram o desenvolvido no primeiro Módulo do Semestre.
+
+
+### 11/05/2021 - Subscreve-Publica
+
+Explorando o paradigma Subscreve-Publica para a coleta e o tratamento de dados no cenário da Internet das Coisas.
+
   * **Trabalhar com a leitura, tratamento e publicação de dados na Internet**
     * Deadline: 25/05/2021
     * Objetivo: Exercitar a fusão de dados provenientes de diferentes origens. Empregar como fonte de dados um serviço de previsão do tempo, que disponibilize informações na Internet. A informação de temperatura deverá ser publicada no Broker MQTT da API do Projeto Integrador 7.
@@ -77,7 +97,16 @@ Site da Plataforma Konker: http://www.konkerlabs.com/
   * Como saber o IP de um equipamento empregando um Broker MQTT. A condição é o equipamento com o IP a ser descoberto estar conectado ao Broker MQTT.
 
 
+### 18/05/2021
+  * Explorando a integração da programação em Python com plataformas públicas para coleta de dados
+
+
+### 25/05/2021
+* Revisitando os passos para criação de um servidor na Interneet para a turma desenvolver seus trabalhos de forma cooperativa.
+
+
 ### 01/06/2021
+* Explorando funcionalidades do Banco de Dados Graphite e sua integração com o Grafana para armazenamento e visualização dos dados coletados
 
   * Ferramentas em Uso:
     * [Banco de Dados Graphite](https://graphite.readthedocs.io/en/latest/)
@@ -103,9 +132,12 @@ Site da Plataforma Konker: http://www.konkerlabs.com/
     * [Instalação do Nginx no Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04)
     * [PuTTY - Terminal para Windows](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - [Gerando Chaves RSA no PuTTY](http://www.dc.ufscar.br/suporte/nossa-rede/acesso-remoto/ssh-usando-putty)
 
-### 29/06/2021
+### 07/06/2021
+* Discutindo a integração do Grafana com o Banco de Dados Relacional PostgreSQL
 
-#### Trabalho Final de Projeto Integrador VII
+### 14/06/2021
+
+**Trabalho Final de Projeto Integrador VII**
 
 Empregando o Servidor Ubuntu 20.04 da turma. Elaborar uma API em Python que promova as seguintes funcionalidades:
 
@@ -125,3 +157,12 @@ Links de Apoio:
   * [Python & PostGres](https://www.devmedia.com.br/como-criar-uma-conexao-em-postgresql-com-python/34079)
   * [Manipulando dados em PostgreSQL com Python](https://dadosaocubo.com/manipulando-dados-em-postgresql-com-python/)
 
+
+### 21/06/2021
+* Explorando os principais comandos de ferramentas textuais e na web para manipulação do PostgreSQL
+
+### 29/06/2021
+* Primeira Avaliação Teórico-Prática, na qual os alunos apresentaram o desenvolvido no primeiro Módulo do Semestre.
+
+### 06/07/2021
+* Revisão do desenvolvido ao longo do semestre. Organização coletiva dos documentos produzidos.
