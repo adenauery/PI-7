@@ -1,12 +1,4 @@
 
-# Welcome to the PI-7 wiki!
-## Titulo 2
-
-
-* linha 1
-* linha 2
-* linha 3
-
 
 ## Apresentação
 
