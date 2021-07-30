@@ -1,8 +1,3 @@
-
-
-No arquivo [do programa Python](https://github.com/adenauery/PI-7/blob/main/subscreve-publica.py) estão os exemplos
-
-
 ## Apresentação
 
 Este é o repositório de trabalho de Projeto Integrador VII. A disciplina acontece no Primeiro Semestre de 2021.
