@@ -131,6 +131,7 @@ Explorando o paradigma Subscreve-Publica para a coleta e o tratamento de dados n
     * [Instalando Grafana no Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-grafana-on-ubuntu-20-04-pt)
     * [Instalação do Nginx no Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04)
     * [PuTTY - Terminal para Windows](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - [Gerando Chaves RSA no PuTTY](http://www.dc.ufscar.br/suporte/nossa-rede/acesso-remoto/ssh-usando-putty)
+    * [Como desativar/ativar o modo gráfico no Linux com o systemd](https://elias.praciano.com/2017/05/como-desativarativar-o-modo-grafico-no-linux-com-o-systemd/)
 
 ### 08/06/2021
 * Discutindo a integração do Grafana com o Banco de Dados Relacional PostgreSQL.
